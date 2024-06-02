@@ -1,0 +1,8 @@
+com\progra3\curso\controllers\UsuarioController.class
+com\progra3\curso\utils\JWTUtil.class
+com\progra3\curso\ServletInitializer.class
+com\progra3\curso\dao\UsuarioDao.class
+com\progra3\curso\CursoApplication.class
+com\progra3\curso\controllers\AuthController.class
+com\progra3\curso\dao\UsuarioDaoImp.class
+com\progra3\curso\models\Usuario.class
